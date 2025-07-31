@@ -1,0 +1,13 @@
+{
+  "name": "gestaodeeventos",
+  "version": "1.0.0",
+  "main": "index  .ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
